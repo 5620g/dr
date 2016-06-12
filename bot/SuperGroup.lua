@@ -233,7 +233,21 @@ function create_config( )
 	"msg_checks",
         "write",
         "plugins"
-        
+       "anti_spam"
+       "lock_english"
+        "lock_fosh"
+        "lock_fwd"
+        "lock_join"
+        ""
+        ""
+        ""
+        ""
+        ""
+        ""
+        ""
+        ""
+        ""
+        ""
     },
     sudo_users = {189308877},--Sudo users
     moderation = {data = 'data/moderation.json'},
