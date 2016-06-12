@@ -238,16 +238,13 @@ function create_config( )
         "lock_fosh"
         "lock_fwd"
         "lock_join"
-        ""
-        ""
-        ""
-        ""
-        ""
-        ""
-        ""
-        ""
-        ""
-        ""
+        "lock_media"
+        "lock_reply"
+        "lock_tag"
+        "lock_username"
+        "time"
+        "addplug"
+        "aparat"
     },
     sudo_users = {189308877},--Sudo users
     moderation = {data = 'data/moderation.json'},
